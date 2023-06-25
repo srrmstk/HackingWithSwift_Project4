@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F7A155322A48610500AC88E7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F7A155312A48610500AC88E7 /* .gitignore */; };
 		F7D87C512A4296D80021308B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D87C502A4296D80021308B /* AppDelegate.swift */; };
 		F7D87C532A4296D80021308B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D87C522A4296D80021308B /* SceneDelegate.swift */; };
 		F7D87C552A4296D80021308B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D87C542A4296D80021308B /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F7A155312A48610500AC88E7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		F7D87C4D2A4296D80021308B /* Project4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7D87C502A4296D80021308B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F7D87C522A4296D80021308B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,7 +44,7 @@
 		F7D87C442A4296D80021308B = {
 			isa = PBXGroup;
 			children = (
-				F7D87C642A42B9900021308B /* TableViewController.swift */,
+				F7A155312A48610500AC88E7 /* .gitignore */,
 				F7D87C4F2A4296D80021308B /* Project4 */,
 				F7D87C4E2A4296D80021308B /* Products */,
 			);
@@ -59,6 +61,7 @@
 		F7D87C4F2A4296D80021308B /* Project4 */ = {
 			isa = PBXGroup;
 			children = (
+				F7D87C642A42B9900021308B /* TableViewController.swift */,
 				F7D87C502A4296D80021308B /* AppDelegate.swift */,
 				F7D87C522A4296D80021308B /* SceneDelegate.swift */,
 				F7D87C542A4296D80021308B /* ViewController.swift */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7A155322A48610500AC88E7 /* .gitignore in Resources */,
 				F7D87C5D2A4296D90021308B /* LaunchScreen.storyboard in Resources */,
 				F7D87C5A2A4296D90021308B /* Assets.xcassets in Resources */,
 				F7D87C582A4296D80021308B /* Main.storyboard in Resources */,
